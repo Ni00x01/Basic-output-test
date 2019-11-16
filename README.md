@@ -1,6 +1,5 @@
-Goal: 
-
-1.
+Goals: 
+1. Send Hello to device 
 
 
 main fork https://github.com/focalsbynorth/focals-api-quickstart 
