@@ -1,9 +1,14 @@
-main fork https://github.com/focalsbynorth/focals-api-quickstart 
-# Hopefully the dev portal is working now.
-add format to this mrkdwn
 
+
+main fork https://github.com/focalsbynorth/focals-api-quickstart 
+Some reading  https://focalsbynorth.github.io/focals-api-docs/ 
+https://github.com/focalsbynorth/focals-client-js
+
+# Hopefully the dev portal is working now.
+
+Setups for Heroku
 ```
-#heroku Commands setup: node or expressJS
+#heroku Commands setup: node 
 $ heroku git:remote -a 'app-name'
 $ heroku config:set SECRET_KEY='<your secret key here>' 
 $ heroku buildpacks:set heroku/nodejs
