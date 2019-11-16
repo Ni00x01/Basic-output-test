@@ -1,9 +1,10 @@
 Goals: 
 
-1. Send Hello World to device;  
+1. Send Hello to device;  
 2. Add Wolfram Api to index.js; 
 3. Nag to North dev about an sdk instead
-4. Keep waiting - n!
+4. Read up on actionable_text
+
 
 
 main fork https://github.com/focalsbynorth/focals-api-quickstart 
@@ -23,5 +24,8 @@ $ heroku config:set SECRET_KEY='<your secret key here>'
 ```
 
 # Setup Wolfram index.js 
+
+# Should results display via messages, notificaitons* twitter or email 
+
 
 
