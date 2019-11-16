@@ -1,8 +1,8 @@
 Todo:
 
-1. Setup basic Hello World to device;  
+1. Setup basic Hello World ability;  
 2. Add Wolfram Api to index.js; 
-3. (Thanksgiving break)
+3. (Thanksgiving break);
 4. Sign up for Amazon s3
 
 
