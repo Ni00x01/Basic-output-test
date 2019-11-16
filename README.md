@@ -1,5 +1,8 @@
 Goals: 
-1. Send Hello to device 
+
+1. Send Hello to device;  
+2. Add Wolfram Api to index.js; 
+3. Nag to North dev about an sdk instead
 
 
 main fork https://github.com/focalsbynorth/focals-api-quickstart 
