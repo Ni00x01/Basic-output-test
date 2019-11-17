@@ -8,6 +8,7 @@ Todo:
 6. Arduino aid
 
 
+
 main fork https://github.com/focalsbynorth/focals-api-quickstart 
 Some reading  https://focalsbynorth.github.io/focals-api-docs/ 
 https://github.com/focalsbynorth/focals-client-js
