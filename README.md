@@ -3,9 +3,11 @@ Todo:
 1. Setup my first Hello World ability;  
 2. Add Wolfram Api to index.js; 
 3. (Thanksgiving break);
-4. Sign up for Amazon s3;
+4. Sign up and experiment with with Amazon s3/heroku/docker/googlecloud;
 5. Update Ruby;
-6. Arduino aid
+
+## Important
+Pick a service -> communicate -> cloud service -> ability
 
 
 
