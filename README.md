@@ -21,7 +21,6 @@ $ heroku git:remote -a 'app-name'
 $ heroku config:set SECRET_KEY='<your secret key here>' 
 $ heroku buildpacks:set heroku/nodejs
 $ heroku config:set NODE_MODULES_CACHE=false
-$ heroku config:set SECRET_KEY='<your secret key here>' 
 ```
 
 # Setup Wolfram index.js 
