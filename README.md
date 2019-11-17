@@ -1,9 +1,11 @@
 Todo:
 
-1. Setup basic Hello World ability;  
+1. Setup my first Hello World ability;  
 2. Add Wolfram Api to index.js; 
 3. (Thanksgiving break);
 4. Sign up for Amazon s3
+5. Update Ruby 
+6. Arduino aid
 
 
 main fork https://github.com/focalsbynorth/focals-api-quickstart 
